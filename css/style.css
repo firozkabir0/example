@@ -1,0 +1,19 @@
+.box{
+    min-height: 80px;
+    background-color: rgb(185, 192, 192);
+    border: 1px solid black;
+    margin-bottom: 10px;
+
+}
+h2{
+    text-align: center;
+}
+.box2{
+    min-height: 300px;
+    background-color: gray;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.borders{
+    text-align: center;
+}
